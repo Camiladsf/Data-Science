@@ -1,0 +1,6 @@
+Accuracy report
+What metric are you using? Why ?
+	Estou utilizando a métrica de classificação binária. Pois calculo a precisão, recall e a acuracia, além disso os os verdadeiros positivos, negativos, falsos positivos e negativos. Podendo ter o resultado do F1 Score que seria a relação entre a precisão e o recall.
+
+Which type of test did you choose ?
+	Escolhi o teste de precisão onde se a precisão de >=0.3 o algoritmo está Ok, senão está ruim.
